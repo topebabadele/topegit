@@ -1,1 +1,2 @@
 "This is Tope second  Git test basic file" 
+This line adds to roginal file testB
